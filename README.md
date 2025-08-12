@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @Aman2261
-- 👀 I’m interested in AI
+- 👋 Hi, I’m @Aman_Gupta
+- 👀 I’m interested in ML
 - 🌱 I’m currently learning DATA SCIENCE 
 - 📫 How to reach me: gaman2261@gmail.com
 - 😄 Pronouns: Aman
-- ⚡ Fun fact: chatGPT is my Younger brother
+
 
 <!---
 Aman2261/Aman2261 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
